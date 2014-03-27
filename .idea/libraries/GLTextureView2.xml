@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GLTextureView">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GLTextureViewSample/libs/GLTextureView.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
